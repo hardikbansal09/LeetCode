@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/hardikbansal09/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/hardikbansal09/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/hardikbansal09/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/hardikbansal09/LeetCode/tree/master/1013-fibonacci-number) |
@@ -51,6 +52,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/hardikbansal09/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/hardikbansal09/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
