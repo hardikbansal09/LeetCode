@@ -85,4 +85,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hardikbansal09/LeetCode/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/hardikbansal09/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
