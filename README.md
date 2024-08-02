@@ -72,6 +72,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hardikbansal09/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/hardikbansal09/LeetCode/tree/master/0058-length-of-last-word) |
+| [1078-remove-outermost-parentheses](https://github.com/hardikbansal09/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -101,4 +102,8 @@
 | [1801-average-time-of-process-per-machine](https://github.com/hardikbansal09/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/hardikbansal09/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/hardikbansal09/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/hardikbansal09/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
