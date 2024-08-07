@@ -78,12 +78,14 @@
 | [0058-length-of-last-word](https://github.com/hardikbansal09/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/hardikbansal09/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/hardikbansal09/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0812-rotate-string](https://github.com/hardikbansal09/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/hardikbansal09/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/hardikbansal09/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hardikbansal09/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/hardikbansal09/LeetCode/tree/master/0812-rotate-string) |
 ## Divide and Conquer
 |  |
 | ------- |
